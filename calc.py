@@ -1,5 +1,5 @@
 def add (x, y):
-    """Add Function"""
+    """Adds Function"""
     return x + y
 
 
