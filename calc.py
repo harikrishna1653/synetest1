@@ -4,7 +4,7 @@ def add (x, y):
 
 
 def subtract(x, y):
-"""Subtract function"""
+    """Subtracts function"""
 return x - y
 
 
@@ -14,7 +14,7 @@ return x * y
 
 
 def divide(x, y):
-    """Divide Function"""
+   """Divide Function"""
     return x / y
 
 
